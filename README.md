@@ -1,2 +1,2 @@
-# telegram_bot-sausage
-Check price for sausege
+# telegram-bot
+Writing telegram bot as an example
